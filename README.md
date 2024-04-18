@@ -1,7 +1,7 @@
 # InlineAMP-customization
 重构了部分InlineAMP代码，加了些定制化的内容，解决了部分插件冲突的问题
 
-## 原InlineAMP主题Readme
+## 原InlineAMP主题Readme文档
 
  InlineAMP has a traditional two-column layer, it's designed for easy-to-use and friendly-to-admin, all settings go to the theme customizer. we used a lot of modern tech such as **flex layer**, **Pure CSS** design. Our theme page was fully supported **AMP spec**, which has much better **SEO** experiences. It's welcome to submit issues or make a pull request, we will respond as soon as possible.
 
