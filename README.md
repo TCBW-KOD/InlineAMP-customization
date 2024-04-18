@@ -1,7 +1,7 @@
 # InlineAMP-customization
 
 
-# 原InlineAMP主题Readme
+## 原InlineAMP主题Readme
 
  InlineAMP has a traditional two-column layer, it's designed for easy-to-use and friendly-to-admin, all settings go to the theme customizer. we used a lot of modern tech such as **flex layer**, **Pure CSS** design. Our theme page was fully supported **AMP spec**, which has much better **SEO** experiences. It's welcome to submit issues or make a pull request, we will respond as soon as possible.
 
@@ -11,7 +11,7 @@
 
 ![theme features](https://github.com/justid/InlineAMP/raw/master/docs/features.png)
 
-## Requires
+### Requires
 
 1. PHP 7 or later
 
@@ -19,7 +19,7 @@
 
 3. [AMP plugin](https://wordpress.org/plugins/amp/)
 
-## Install
+### Install
 
 1. Install theme
 
@@ -27,7 +27,7 @@
 
 3. Setting AMP plugin to **Standard** Website Mode
 
-## Changelog
+### Changelog
 
 > v1.2.0
 
@@ -51,11 +51,11 @@
 
 * Init version
 
-## TODO
+### TODO
 
 Nothing there
 
-## KEYWORDS
+### KEYWORDS
 
 1. AMP Ready
 
@@ -67,7 +67,7 @@ Nothing there
 
 5. Blog Style
 
-## License
+### License
 
 ![theme thumbnail](https://github.com/justid/InlineAMP/raw/master/docs/thumbnail.png)
 
