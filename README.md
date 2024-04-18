@@ -1,5 +1,5 @@
 # InlineAMP-customization
-
+重构了部分InlineAMP代码，加了些定制化的内容，解决了部分插件冲突的问题
 
 ## 原InlineAMP主题Readme
 
